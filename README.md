@@ -1,8 +1,8 @@
 #Python Programming Course
 
-Institution: NRIU
-Academic Year: 2026-27
-Course: Python Programming
-Section: Sec-21
-Serial Number: 44
-Student Name: Reddy Bharath
+-Institution: NRIU
+-Academic Year: 2026-27
+-Course: Python Programming
+-Section: Sec-21
+-Serial Number: 44
+-Student Name: Reddy Bharath

@@ -1,4 +1,6 @@
-
-N = int(input("Enter the value of N: "))
-sum_natural = N * (N + 1) // 2 
-print("The sum of first", N, "natural numbers is:", sum_natural)
+N=int(input("entre number N:"))
+sum=0
+for i in range(1,N+1):
+    sum=sum+i
+    print("sum=",sum) 
+     
